@@ -1,0 +1,21 @@
+{
+  "name": "r-pretty.barplot",
+  "version": "0.0.1",
+  "description": "A thin wrapper around the base R barplot function",
+  "main": "main.r",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tlevine/r-pretty.barplot.git"
+  },
+  "keywords": [
+    "nprm"
+  ],
+  "author": "Thomas Levine <_@thomaslevine.com>",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/tlevine/r-pretty.barplot/issues"
+  }
+}
