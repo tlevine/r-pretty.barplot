@@ -1,0 +1,4 @@
+A pretty base barplot
+
+    library(nprm)
+    nprm.require('pretty.barplot')(iris$Sepal.Length)
